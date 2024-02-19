@@ -8,7 +8,7 @@
 
 - 👨‍💻 Here is my Portfolio Website[https://earnest-raindrop-65140e.netlify.app/](https://earnest-raindrop-65140e.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/" height="30" width="40" /></a>
 <a href="https://instagram.com/akash2705s?utm_source=qr&igshid=mthlnwy1mzqwna==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/akash2705s?utm_source=qr&igshid=mthlnwy1mzqwna==" height="30" width="40" /></a>
