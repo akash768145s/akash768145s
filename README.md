@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,ReactJs**
 
-- 👨‍💻Portfolio Website [https://earnest-raindrop-65140e.netlify.app/]
+- 👨‍💻Portfolio Website:(https://earnest-raindrop-65140e.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
