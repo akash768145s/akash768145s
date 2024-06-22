@@ -2,9 +2,8 @@
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
-- 🔭 I’m currently working on **Hotel Management System With Payment Integration From Stripe**
 
-- 🌱 I’m currently learning **Flutter,ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻Portfolio Website:(https://portfolio-akash2705.netlify.app/)
 
