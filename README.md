@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻Portfolio Website:(https://portfolio-akash2705.netlify.app/)
+- 👨‍💻Portfolio Website:(https://akash-27-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
