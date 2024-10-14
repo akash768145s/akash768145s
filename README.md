@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
-<!-- Animated GIF -->
-<table align="center">
+<!-- Profile Section with Animated GIF -->
+<table align="center" style="border: none;">
   <tr>
-    <td>
-      <ul>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul style="list-style: none; font-size: 18px; line-height: 1.8;">
         <li>🌱 I’m currently learning <b>NextJS</b></li>
-        <li>👨‍💻 Portfolio Website: <a href="https://akash-27-portfolio.vercel.app/" target="_blank">akash-27-portfolio.vercel.app</a></li>
+        <li>👨‍💻 <strong>Portfolio Website:</strong> 
+          <a href="https://akash-27-portfolio.vercel.app/" target="_blank" style="color: #61dafb; text-decoration: none;">
+            akash-27-portfolio.vercel.app
+          </a>
+        </li>
       </ul>
     </td>
     <td>
-      <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
+      <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);"/>
     </td>
   </tr>
 </table>
