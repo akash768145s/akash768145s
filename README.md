@@ -21,7 +21,8 @@
             <li><b>Stay Savvy</b>: Hotel management system.</li>
           </ul>
         </li>
-        <li>👥 <strong>Leadership:</strong> Mentored interns and managing client projects.</li>
+          <li>👥 <strong>Leadership:</strong> Full Stack Dev Deputy Team Lead at SSN Coding Club, mentored interns and managing client projects.</li>
+        <li>📈 <strong>Contributions:</strong> Collaborated on 8+ client projects, delivering high-quality web solutions.</li>
       </ul>
     </td>
     <td>
