@@ -9,7 +9,7 @@
         <li>🌱 Currently learning <b>NextJS,React Native</b></li>
         <li>👨‍💻 <strong>Portfolio:</strong> 
           <a href="https://akash-27-portfolio.vercel.app/" target="_blank" style="color: #61dafb; text-decoration: none;">
-            akash-27
+            akash2705s
           </a>
         </li>
          <li>💼 Interned at three startups, contributing to impactful projects.</li>
