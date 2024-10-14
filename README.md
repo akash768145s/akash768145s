@@ -39,9 +39,7 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
-  <a href="https://shadcn.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Shadcn-18181B?style=for-the-badge&logoColor=white" alt="Shadcn"/>
-</a>
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
@@ -89,6 +87,9 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+  <a href="https://shadcn.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Shadcn-18181B?style=for-the-badge&logoColor=white" alt="Shadcn"/>
 </a>
 
 
