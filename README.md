@@ -1,21 +1,34 @@
-<ul style="list-style: none; font-size: 18px; line-height: 1.8;">
-  <li>🌱 I’m currently learning <b>NextJS</b></li>
-  <li>👨‍💻 <strong>Portfolio Website:</strong> 
-    <a href="https://akash-27-portfolio.vercel.app/" target="_blank" style="color: #61dafb; text-decoration: none;">
-      akash-27-portfolio.vercel.app
-    </a>
-  </li>
-  <li>💻 <strong>Web Developer Intern:</strong> Developed high-performance web applications using Next.js at <b>Digenie</b> (Apr 2024 – Jun 2024)</li>
-  <li>🔧 <strong>Key Projects:</strong>
-    <ul style="list-style: none; margin-left: 20px;">
-      <li><b>Sell It Dude!</b>: Marketplace platform for college students with secure authentication and dynamic product listings.</li>
-      <li><b>EduGauge</b>: Academic performance tracking tool with interactive dashboards and detailed reports for educators.</li>
-      <li><b>Stay Savvy</b>: Hotel management system featuring secure booking workflows and data validation.</li>
-    </ul>
-  </li>
-  <li>👥 <strong>Leadership:</strong> Full Stack Dev Deputy Team Lead at SSN Coding Club, mentoring interns and managing client projects.</li>
-  <li>📈 <strong>Client Contributions:</strong> Collaborated on 7+ client projects, delivering high-quality web solutions.</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">An Aspiring Full Stack Developer</h3>
+
+<!-- Animated GIF -->
+<table align="center">
+  <tr>
+    <td>
+      <ul style="list-style: none; font-size: 18px; line-height: 1.8;">
+        <li>🌱 I’m currently learning <b>NextJS</b></li>
+        <li>👨‍💻 <strong>Portfolio Website:</strong> 
+          <a href="https://akash-27-portfolio.vercel.app/" target="_blank" style="color: #61dafb; text-decoration: none;">
+            akash-27-portfolio.vercel.app
+          </a>
+        </li>
+        <li>💻 <strong>Web Developer Intern:</strong> Developed high-performance web applications using Next.js at <b>Digenie</b> (Apr 2024 – Jun 2024)</li>
+        <li>🔧 <strong>Key Projects:</strong>
+          <ul style="list-style: none; margin-left: 20px;">
+            <li><b>Sell It Dude!</b>: Marketplace platform for college students with secure authentication and dynamic product listings.</li>
+            <li><b>EduGauge</b>: Academic performance tracking tool with interactive dashboards and detailed reports for educators.</li>
+            <li><b>Stay Savvy</b>: Hotel management system featuring secure booking workflows and data validation.</li>
+          </ul>
+        </li>
+        <li>👥 <strong>Leadership:</strong> Full Stack Dev Deputy Team Lead at SSN Coding Club, mentoring interns and managing client projects.</li>
+        <li>📈 <strong>Client Contributions:</strong> Collaborated on 7+ client projects, delivering high-quality web solutions.</li>
+      </ul>
+    </td>
+    <td>
+      <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
