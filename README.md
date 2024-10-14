@@ -6,7 +6,7 @@
   <tr>
     <td>
       <ul style="list-style: none; font-size: 18px; line-height: 1.8;">
-        <li>🌱 Currently learning <b>NextJS</b></li>
+        <li>🌱 Currently learning <b>NextJS,React Native</b></li>
         <li>👨‍💻 <strong>Portfolio:</strong> 
           <a href="https://akash-27-portfolio.vercel.app/" target="_blank" style="color: #61dafb; text-decoration: none;">
             akash-27
