@@ -2,10 +2,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;A+Full+Stack+Dev+who+loves+building+cool+things!" alt="Headline" />
 </div>
-
 <br/>
-
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Creative Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind
+r</h3>
 
 <br/>
 
@@ -26,10 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   &emsp;
-  <a href="https://instagram.com/akash__2705s" target="_blank">
+ <!--- <a href="https://instagram.com/akash__2705s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-</p>
+</p>--->
 
 <br/>
 
