@@ -21,8 +21,7 @@
 </p>
 <br>
 <h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | ⚡ Lifelong Learner</h3> 
-
-<be>
+<br>
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
@@ -30,11 +29,9 @@
 - 🧠 I enjoy exploring cutting-edge stacks like **Next.js**, **TypeScript**, **FastAPI**, and **React Native**
 - 🧩 Currently contributing to an educational initiative using games to teach Tamil interactively
 - 🚀 Always up for building scalable products, mentoring juniors, and collaborating with tech communities
-- 📫 Reach me at: **akashsakthimurugan@gmail.com**
+- 📫 Reach me at: **sakthimuruganakash@gmail.com**
 - ⚡ Hobbies: Exploring new tech stacks 🌐, solving real-world problems with code 🔧, reading dev blogs 📖, mentoring juniors 👨‍🏫, and listening to music 🎧
-
-
-
+<be>
 ---
 
 ### 🌟 Notable Projects
@@ -106,7 +103,7 @@
   </a>
 </p>
 
-### Blockchain Development
+<!---### Blockchain Development
 <p align="left">
   &emsp;
   <a href="https://hardhat.org/" target="_blank">
@@ -125,7 +122,7 @@
     <img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white">
   </a>
 </p>
-
+--->
 ### Databases & Cloud
 <p align="left">
   &emsp;
@@ -169,9 +166,10 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   </a>
   &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>
+  <a href="https://www.cursor.so/" target="_blank">
+  <img alt="Cursor" src="https://img.shields.io/badge/Editor-Cursor-292929?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
 </p>
 
 
