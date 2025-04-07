@@ -10,7 +10,8 @@
 	&emsp;
 	<a href="https://github.com/akash768145s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 	&emsp;
 	<!---
   <a href="https://instagram.com/akash__2705s" target="_blank">
