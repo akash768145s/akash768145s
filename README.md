@@ -20,11 +20,11 @@
 	
 </p>
 <br>
-<h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | ⚡ Lifelong Learner</h3> 
+<h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind
+r</h3> 
 <br>
 
 ### 🙋‍♂️ About Me
-
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
 - 💻 Passionate about **Full Stack Development**, **Blockchain**, and building projects that create impact
 - 🧠 I enjoy exploring cutting-edge stacks like **Next.js**, **TypeScript**, **FastAPI**, and **React Native**
@@ -166,9 +166,9 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   </a>
   &emsp;
-<a href="https://www.cursor.so/" target="_blank">
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-292929.svg?logo=visualstudiocode&logoColor=white">
-</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>
 
 
 </p>
