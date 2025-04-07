@@ -166,9 +166,10 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.cursor.so/" target="_blank">
-  <img alt="Cursor" src="https://img.shields.io/badge/Editor-Cursor-292929?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<a href="https://www.cursor.so/" target="_blank">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-292929.svg?logo=visualstudiocode&logoColor=white">
 </a>
+
 
 </p>
 
