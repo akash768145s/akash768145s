@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;A+Full+Stack+Dev+who+loves+building+cool+things!" alt="Headline" />
 </div>
 <br/>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind
-r</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind</h3>
 
 <br/>
 
