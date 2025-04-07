@@ -1,9 +1,9 @@
 <be>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;A+Full+Stack+Dev+who+loves+building+cool+things!" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;" alt="Headline" />
 </div>
 <br/>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind</h3>
+<h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind</h3>
 
 <br/>
 
@@ -105,6 +105,10 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   </a>
   &emsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005F57.svg?logo=fastapi&logoColor=white">
+</a>
+&emsp;
   <a href="https://reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black">
   </a>
@@ -145,9 +149,11 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white">
-  </a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
+&emsp;
+
   &emsp;
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
