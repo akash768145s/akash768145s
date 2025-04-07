@@ -22,7 +22,8 @@
 <br>
 <h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | ⚡ Lifelong Learner</h3> 
 <br>
-## 🙋‍♂️ About Me
+
+### 🙋‍♂️ About Me
 
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
 - 💻 Passionate about **Full Stack Development**, **Blockchain**, and building projects that create impact
@@ -32,7 +33,6 @@
 - 📫 Reach me at: **sakthimuruganakash@gmail.com**
 - ⚡ Hobbies: Exploring new tech stacks 🌐, solving real-world problems with code 🔧, reading dev blogs 📖, mentoring juniors 👨‍🏫, and listening to music 🎧
 <be>
----
 
 ### 🌟 Notable Projects
 
