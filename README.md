@@ -27,12 +27,16 @@
   <tr>
     <td>
       <ul style="list-style: none; font-size: 18px; line-height: 1.8;">
-        <li>🎓 B.Tech in IT @ SSN College of Engineering (2022 - 2026)</li>
-        <li>💼 Interned at <strong>KaReFo</strong> and <strong>Digenie</strong></li>
-        <li>🚀 Building 18+ Tamil language learning games with interactive animations</li>
-        <li>🧠 Passionate about React, Next.js, TypeScript, and scalable backend solutions</li>
-        <li>🛠️ Strong contributor to 8+ client projects with a focus on performance & UX</li>
-        <li>👨‍🏫 Mentored 12 interns at DNYX | Deputy Team Lead @ SSN Coding Club (FS-SWE)</li>
+## 🙋‍♂️ About Me
+
+- 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
+- 💻 Passionate about **Full Stack Development**, **Blockchain**, and building projects that create impact
+- 🧠 I enjoy exploring cutting-edge stacks like **Next.js**, **TypeScript**, **FastAPI**, and **React Native**
+- 🧩 Currently contributing to an educational initiative using games to teach Tamil interactively
+- 🚀 Always up for building scalable products, mentoring juniors, and collaborating with tech communities
+- 📫 Reach me at: **akashsakthimurugan@gmail.com**
+- ⚡ Hobbies: Playing guitar 🎸, solving DSA problems 💡, learning new tech 🌐, and reading tech blogs 📖
+
       </ul>
     </td>
     <td>
@@ -97,10 +101,6 @@
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white">
   </a>
   &emsp;
   <a href="https://expressjs.com/" target="_blank">
@@ -184,17 +184,7 @@
   </a>
 </p>
 
-### Operating Systems
-<p align="left">
-  &emsp;
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000.svg?logo=apple&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
-</p>
+
 
 ### 📈 Stats & Activity
 
@@ -204,19 +194,7 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash768145s&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
 </div>
 
----
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:akashsakthimurugan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://akash-27-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/akash270504s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/akash2705sm"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
----
 
 <!-- Snake animation -->
 <h3 align="center">My contribution graph gets eaten by a snake 🐍</h3>
