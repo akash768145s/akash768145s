@@ -1,28 +1,37 @@
-&emsp;
 <be>
-<div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;" alt="Headline" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;A+Full+Stack+Dev+who+loves+building+cool+things!" alt="Headline" />
 </div>
+
+<br/>
+
+<h3 align="center">💻 Full Stack Developer | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Creative Problem Solver</h3>
+
+<br/>
+
 <p align="center">
-  	<a href="https://akash-27-portfolio.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
-	&emsp;
-	<a href="mailto:sakthimuruganakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
-	&emsp;
-	<a href="https://github.com/akash768145s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/></a>
-	&emsp;
-	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/></a>
-	&emsp;
-	<!---<a href="https://www.facebook.com/ayeshanasim24"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/></a>
-	&emsp;
+  <a href="https://akash-27-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/>
+  </a>
+  &emsp;
+  <a href="mailto:sakthimuruganakash@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/akash768145s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  &emsp;
   <a href="https://instagram.com/akash__2705s" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a> --->
-	
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
 </p>
-<br>
-<h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind
-r</h3> 
-<br>
+
+<br/>
 
 ### 🙋‍♂️ About Me
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
