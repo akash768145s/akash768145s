@@ -149,9 +149,10 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.netlify.com/" target="_blank">
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  </a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+</a>
+
   &emsp;
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
@@ -177,9 +178,10 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   </a>
   &emsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>
+<a href="https://www.cursor.so/" target="_blank">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</a>
+
 
 
 </p>
