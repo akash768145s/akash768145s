@@ -1,12 +1,24 @@
 &emsp;
-
 <be>
-	
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;" alt="Headline" />
 </div>
-
-<h3 align="center">Aspiring Full Stack Developer | Tech Explorer | </h3>
+<p align="center">
+  	<a href="https://akash-27-portfolio.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
+	&emsp;
+	<a href="mailto:sakthimuruganakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
+	&emsp;
+	<a href="https://github.com/akash768145s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/></a>
+	&emsp;
+	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/></a>
+	&emsp;
+	<!---
+  <a href="https://instagram.com/akash__2705s" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a> --->
+</p>
+<br>
+<h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | ⚡ Lifelong Learner</h3> 
 
 <!-- Summary with Animation -->
 <table align="center">
