@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Akash Sakthimurugan</h1>
-<h3 align="center">Aspiring Full Stack Developer | Tech Explorer | Cat Dad 🐾</h3>
+&emsp;
+
+<be>
+	
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;" alt="Headline" />
+</div>
+
+<h3 align="center">Aspiring Full Stack Developer | Tech Explorer | </h3>
 
 <!-- Summary with Animation -->
 <table align="center">
