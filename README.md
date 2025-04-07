@@ -22,11 +22,7 @@
 <br>
 <h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🌐 Blockchain Dev Enthusiast | ⚡ Lifelong Learner</h3> 
 
-<!-- Summary with Animation -->
-<table align="center">
-  <tr>
-    <td>
-      <ul style="list-style: none; font-size: 18px; line-height: 1.8;">
+<be>
 ## 🙋‍♂️ About Me
 
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
@@ -35,15 +31,9 @@
 - 🧩 Currently contributing to an educational initiative using games to teach Tamil interactively
 - 🚀 Always up for building scalable products, mentoring juniors, and collaborating with tech communities
 - 📫 Reach me at: **akashsakthimurugan@gmail.com**
-- ⚡ Hobbies: Playing guitar 🎸, solving DSA problems 💡, learning new tech 🌐, and reading tech blogs 📖
+- ⚡ Hobbies: Exploring new tech stacks 🌐, solving real-world problems with code 🔧, reading dev blogs 📖, mentoring juniors 👨‍🏫, and listening to music 🎧
 
-      </ul>
-    </td>
-    <td>
-      <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
-    </td>
-  </tr>
-</table>
+
 
 ---
 
@@ -186,18 +176,14 @@
 
 
 
-### 📈 Stats & Activity
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=akash768145s&count_private=true&theme=react&border_radius=10"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=akash768145s&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash768145s&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
+####  My Github Stats
+ <div>
+  <a href="https://github.com/n-ay">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash768145s&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash768145s&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+<br>
+<br>
 
-
-
-<!-- Snake animation -->
-<h3 align="center">My contribution graph gets eaten by a snake 🐍</h3>
-<p align="center">
-  <img src="https://github.com/akash768145s/akash768145s/blob/output/github-contribution-grid-snake-dark.svg" width="900"/>
-</p>
+## My contribution graph gets eaten by a snake 🐍:
+<img align='center' src='https://github.com/akash768145s/akash768145s/blob/output/github-contribution-grid-snake-dark.svg' width='900'>
