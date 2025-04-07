@@ -149,11 +149,9 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
   </a>
   &emsp;
-<a href="https://www.netlify.com/" target="_blank">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
-&emsp;
-
+  <a href="https://www.netlify.com/" target="_blank">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
   &emsp;
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
