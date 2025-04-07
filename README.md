@@ -8,10 +8,10 @@
 	&emsp;
 	<a href="mailto:sakthimuruganakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/akash768145s"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=071A2C&labelColor=071A2C" alt="LinkedIn"/>
+	<a href="https://github.com/akash768145s"<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/>
 </a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	<a href="https://www.linkedin.com/in/akash-sakthimurugan-352b26236/"<img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/>
 </a>
 	&emsp;
 	<!---
