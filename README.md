@@ -1,7 +1,8 @@
 <be>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Akash+%F0%9F%91%8B;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00FFD1&background=000000&center=true&vCenter=true&width=750&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Akash+Sakthimurugan!;Passionate+Full+Stack+Developer+Turning+Ideas+Into+Reality+with+Code+%E2%9C%A8;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" /> 
 </div>
+
 <br/>
 <h3 align="center">💻 Full Stack Dev | 🚀 Tech Explorer | 🔗 Blockchain Dev Enthusiast | 🛠️ Builder with a Curious Mind</h3>
 
@@ -33,12 +34,12 @@
 
 ## 🙋‍♂️ About Me
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
-- 💻 Passionate about **Full Stack Development**, **Blockchain**, and building projects that create impact
-- 🧠 I enjoy exploring cutting-edge stacks like **Next.js**, **TypeScript**, **FastAPI**, and **React Native**
-- 🧩 Currently contributing to an educational initiative using games to teach Tamil interactively
-- 🚀 Always up for building scalable products, mentoring juniors, and collaborating with tech communities
+<!--- 🎓 Final-year B.Tech IT student at **SSN College of Engineering (2022–2026)**  --->
+- 💻 Full Stack Developer crafting scalable web apps with **Next.js**, **TypeScript**, and **FastAPI**  
+- 🧠 Passionate about simplifying learning — currently building interactive Tamil learning games  
+- 🤝 Community-driven, love mentoring & creating products that make a real impact  
 - 📫 Reach me at: **sakthimuruganakash@gmail.com**
-- ⚡ Hobbies: Exploring new tech stacks 🌐, solving real-world problems with code 🔧, reading dev blogs 📖, mentoring juniors 👨‍🏫, and listening to music 🎧
+
 <be>
 
 ## 🛠️ My Skills
