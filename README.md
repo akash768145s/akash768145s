@@ -29,9 +29,9 @@
   </a>
 </p>--->
 
-<br/>
+<br>
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 - 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
 - 💻 Passionate about **Full Stack Development**, **Blockchain**, and building projects that create impact
 - 🧠 I enjoy exploring cutting-edge stacks like **Next.js**, **TypeScript**, **FastAPI**, and **React Native**
