@@ -1,6 +1,6 @@
 <be>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=750&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Akash+Sakthimurugan!;Passionate+Dev+Turning+Ideas+Into+Reality+with+Code+%E2%9C%A8;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=750&height=60&lines=Hey+%F0%9F%91%8B%2C+I'm+Akash+Sakthimurugan!;Passionate+Dev+%F0%9F%92%BB;Turning+Ideas+Into+Reality+with+Code+%E2%9C%A8;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" /> 
 </div>
 
 <br/>
