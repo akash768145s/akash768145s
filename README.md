@@ -41,13 +41,6 @@
 - ⚡ Hobbies: Exploring new tech stacks 🌐, solving real-world problems with code 🔧, reading dev blogs 📖, mentoring juniors 👨‍🏫, and listening to music 🎧
 <be>
 
-### 🌟 Notable Projects
-
-- 🧠 **MoodSync** — Emotion-based music player using Face.js + TensorFlow.js + Spotify API  
-- 🛍 **Sell It Dude!** — Marketplace for students built with MERN stack  
-- 📊 **EduGauge** — Academic analysis tool with GPA/CGPA charts + Excel data import  
-- 🏨 **Stay Savvy** — Smart hotel dashboard with dynamic room and staff management  
-
 ## 🛠️ My Skills
 
 ### Programming Languages
@@ -148,7 +141,6 @@
 <a href="https://www.netlify.com/" target="_blank">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
 </a>
-
   &emsp;
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
