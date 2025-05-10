@@ -62,10 +62,6 @@
     <a href="https://golang.org/" target="_blank"> 
     <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>
 </p>
 
 ### Web Development & Frameworks
@@ -91,14 +87,6 @@
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white">
   </a>
   &emsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-  </a>
-  &emsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005F57.svg?logo=fastapi&logoColor=white">
-</a>
-&emsp;
   <a href="https://reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black">
   </a>
@@ -126,6 +114,10 @@
 --->
 ### Databases & Cloud
 <p align="left">
+    &emsp;
+   <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%232F2F2F.svg?logo=postgresql&logoColor=white">
+  </a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
@@ -135,14 +127,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black">
   </a>
   &emsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white">
-  </a>
-  &emsp;
-<a href="https://www.netlify.com/" target="_blank">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-</a>
-  &emsp;
+
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   </a>
