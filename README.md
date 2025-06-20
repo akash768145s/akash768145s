@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://akash-27-portfolio.vercel.app/" target="_blank">
+  <a href="https://dev-akash.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/>
   </a>
   &emsp;
@@ -33,9 +33,8 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🎓 I'm a **B.Tech Information Technology** undergrad at **SSN College of Engineering** (2022–2026)
-<!--- 🎓 Final-year B.Tech IT student at **SSN College of Engineering (2022–2026)**  --->
-- 💻 Full Stack Developer crafting scalable web apps with **Next.js**, **TypeScript**, and **FastAPI**  
+- 🎓 Final-year B.Tech IT student at **SSN College of Engineering** (2022–2026)
+- 💻 Full Stack Developer crafting scalable web apps with **Next.js**, **TypeScript**, and **Express.js**
 - 🧠 Passionate about simplifying learning — currently building interactive Tamil learning games  
 - 🤝 Community-driven, love mentoring & creating products that make a real impact  
 - 📫 Reach me at: **sakthimuruganakash@gmail.com**
@@ -71,8 +70,13 @@
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
   </a>
   &emsp;
+
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+    <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-593D88.svg?logo=redux&logoColor=white">
   </a>
   &emsp;
   <a href="https://vitejs.dev/" target="_blank">
@@ -90,6 +94,7 @@
   <a href="https://reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB.svg?logo=react&logoColor=black">
   </a>
+  &emsp;
 </p>
 
 <!---### Blockchain Development
